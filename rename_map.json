@@ -1,0 +1,1177 @@
+[
+  {
+    "src": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine:-Blindside-176.jpg",
+    "dst": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine-Blindside-176.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine:-Devolution-177.jpg",
+    "dst": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine-Devolution-177.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine:-Evolution-178.jpg",
+    "dst": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine-Evolution-178.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine:-Turbo-Energize-179.jpg",
+    "dst": "./images/cards/Paradox-Rift/Paradox-Rift-Technical-Machine-Turbo-Energize-179.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Hidden-Fates/Hidden-Fates-Shiny-Vault-Type:-Null-SV45.jpg",
+    "dst": "./images/cards/Hidden-Fates/Hidden-Fates-Shiny-Vault-Type-Null-SV45.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Surging-Sparks/Surging-Sparks-Technical-Machine:-Flourite-188.jpg",
+    "dst": "./images/cards/Surging-Sparks/Surging-Sparks-Technical-Machine-Flourite-188.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Ultra-Prism/SM-Ultra-Prism-Type:-Null-115.jpg",
+    "dst": "./images/cards/Ultra-Prism/SM-Ultra-Prism-Type-Null-115.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Pitch-Black/Pitch-Black-Type:-Null-069.jpg",
+    "dst": "./images/cards/Pitch-Black/Pitch-Black-Type-Null-069.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Paldean-Fates/Paldean-Fates-Technical-Machine:-Crisis-Punch-090.jpg",
+    "dst": "./images/cards/Paldean-Fates/Paldean-Fates-Technical-Machine-Crisis-Punch-090.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Evolutions/XY-Evolutions-Imakuni?'s-Doduo-112.jpg",
+    "dst": "./images/cards/Evolutions/XY-Evolutions-Imakuni-'s-Doduo-112.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Cosmic-Eclipse/SM-Cosmic-Eclipse-Dragonium-Z:-Dragon-Claw-190.jpg",
+    "dst": "./images/cards/Cosmic-Eclipse/SM-Cosmic-Eclipse-Dragonium-Z-Dragon-Claw-190.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Cosmic-Eclipse/SM-Cosmic-Eclipse-Type:-Null-183.jpg",
+    "dst": "./images/cards/Cosmic-Eclipse/SM-Cosmic-Eclipse-Type-Null-183.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Unified-Minds/SM-Unified-Minds-Flyinium-Z:-Air-Slash-195.jpg",
+    "dst": "./images/cards/Unified-Minds/SM-Unified-Minds-Flyinium-Z-Air-Slash-195.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Unified-Minds/SM-Unified-Minds-Normalium-Z:-Tackle-203.jpg",
+    "dst": "./images/cards/Unified-Minds/SM-Unified-Minds-Normalium-Z-Tackle-203.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Unified-Minds/SM-Unified-Minds-Type:-Null-183.jpg",
+    "dst": "./images/cards/Unified-Minds/SM-Unified-Minds-Type-Null-183.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/cards/Crimson-Invasion/SM-Crimson-Invasion-Type:-Null-89.jpg",
+    "dst": "./images/cards/Crimson-Invasion/SM-Crimson-Invasion-Type-Null-89.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/151:-Alakazam-ex-Collection.jpg",
+    "dst": "./images/sealed_prods/151-Alakazam-ex-Collection.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/151:-Zapdos-ex-Collection.jpg",
+    "dst": "./images/sealed_prods/151-Zapdos-ex-Collection.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2016-World-Championship-Deck:-Cody-Walinski-(Ninja-Blitz).jpg",
+    "dst": "./images/sealed_prods/2016-World-Championship-Deck-Cody-Walinski-(Ninja-Blitz).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2016-World-Championship-Deck:-Jesper-Eriksen-(Bebe-Deck).jpg",
+    "dst": "./images/sealed_prods/2016-World-Championship-Deck-Jesper-Eriksen-(Bebe-Deck).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2016-World-Championship-Deck:-Shintaro-Ito-(Magical-Symphony).jpg",
+    "dst": "./images/sealed_prods/2016-World-Championship-Deck-Shintaro-Ito-(Magical-Symphony).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2016-World-Championship-Deck:-Shunto-Sadahiro-(Black-Dragon).jpg",
+    "dst": "./images/sealed_prods/2016-World-Championship-Deck-Shunto-Sadahiro-(Black-Dragon).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2017-World-Championship-Deck:-Diego-Cassiraga-(Infinite-Force).jpg",
+    "dst": "./images/sealed_prods/2017-World-Championship-Deck-Diego-Cassiraga-(Infinite-Force).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2017-World-Championship-Deck:-Kabu-Fukase-(Samurai-Sniper).jpg",
+    "dst": "./images/sealed_prods/2017-World-Championship-Deck-Kabu-Fukase-(Samurai-Sniper).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2017-World-Championship-Deck:-Naoto-Suzuki-(Golisodor).jpg",
+    "dst": "./images/sealed_prods/2017-World-Championship-Deck-Naoto-Suzuki-(Golisodor).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2017-World-Championship-Deck:-Zachary-Bokhari-(Ice-Path-FTW).jpg",
+    "dst": "./images/sealed_prods/2017-World-Championship-Deck-Zachary-Bokhari-(Ice-Path-FTW).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2018-World-Championship-Deck:-Magnus-Pedersen-(Garbanette).jpg",
+    "dst": "./images/sealed_prods/2018-World-Championship-Deck-Magnus-Pedersen-(Garbanette).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2018-World-Championship-Deck:-Naohito-Inoue-(Buzzroc).jpg",
+    "dst": "./images/sealed_prods/2018-World-Championship-Deck-Naohito-Inoue-(Buzzroc).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2018-World-Championship-Deck:-Pedro-Eugenio-Torres-(Dragones-Y-Sombras).jpg",
+    "dst": "./images/sealed_prods/2018-World-Championship-Deck-Pedro-Eugenio-Torres-(Dragones-Y-Sombras).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2018-World-Championship-Deck:-Robin-Schulz-(Victory-Map).jpg",
+    "dst": "./images/sealed_prods/2018-World-Championship-Deck-Robin-Schulz-(Victory-Map).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2019-World-Championship-Deck:-Haruki-Miyamoto-(Pikarom-Judge).jpg",
+    "dst": "./images/sealed_prods/2019-World-Championship-Deck-Haruki-Miyamoto-(Pikarom-Judge).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2019-World-Championship-Deck:-Henry-Brand-(Perfection).jpg",
+    "dst": "./images/sealed_prods/2019-World-Championship-Deck-Henry-Brand-(Perfection).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2019-World-Championship-Deck:-Kaya-Lichtleitner-(Fire-Box).jpg",
+    "dst": "./images/sealed_prods/2019-World-Championship-Deck-Kaya-Lichtleitner-(Fire-Box).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2019-World-Championship-Deck:-Shintaro-Ito-(Mind-Blown).jpg",
+    "dst": "./images/sealed_prods/2019-World-Championship-Deck-Shintaro-Ito-(Mind-Blown).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2022-World-Championship-Deck:-Andre-Chiasson-(The-Shape-of-Mew).jpg",
+    "dst": "./images/sealed_prods/2022-World-Championship-Deck-Andre-Chiasson-(The-Shape-of-Mew).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2022-World-Championship-Deck:-Ondrej-Skubal-(ADP).jpg",
+    "dst": "./images/sealed_prods/2022-World-Championship-Deck-Ondrej-Skubal-(ADP).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2022-World-Championship-Deck:-Rikuto-Ohashi-(Ice-Rider-Palkia).jpg",
+    "dst": "./images/sealed_prods/2022-World-Championship-Deck-Rikuto-Ohashi-(Ice-Rider-Palkia).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/2022-World-Championship-Deck:-Sebastian-Lashmet-(Cheryl-Again).jpg",
+    "dst": "./images/sealed_prods/2022-World-Championship-Deck-Sebastian-Lashmet-(Cheryl-Again).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Ancient-Origins-Theme-Deck---\"Iron-Tide\"-Metagross.jpg",
+    "dst": "./images/sealed_prods/Ancient-Origins-Theme-Deck-Iron-Tide-Metagross.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Ancient-Origins-Theme-Deck---\"Stone-Heart\"-Regirock.jpg",
+    "dst": "./images/sealed_prods/Ancient-Origins-Theme-Deck-Stone-Heart-Regirock.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/BREAKpoint-Theme-Deck---\"Electric-Eye\"-Luxray.jpg",
+    "dst": "./images/sealed_prods/BREAKpoint-Theme-Deck-Electric-Eye-Luxray.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/BREAKpoint-Theme-Deck---\"Wave-Slasher\"-Greninja.jpg",
+    "dst": "./images/sealed_prods/BREAKpoint-Theme-Deck-Wave-Slasher-Greninja.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/BREAKthrough-Theme-Deck---\"Burning-Spark\"-Raichu.jpg",
+    "dst": "./images/sealed_prods/BREAKthrough-Theme-Deck-Burning-Spark-Raichu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/BREAKthrough-Theme-Deck---\"Night-Striker\"-Noivern.jpg",
+    "dst": "./images/sealed_prods/BREAKthrough-Theme-Deck-Night-Striker-Noivern.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-2-Theme-Deck---\"Grass-Chopper\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-2-Theme-Deck-Grass-Chopper-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-2-Theme-Deck---\"Hot-Water\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-2-Theme-Deck-Hot-Water-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-2-Theme-Deck---\"Lightning-Bug\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-2-Theme-Deck-Lightning-Bug-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-2-Theme-Deck---\"Psych-Out\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-2-Theme-Deck-Psych-Out-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Blackout\"-(Revised-Base-Set-Reprint-Run).jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Blackout-(Revised-Base-Set-Reprint-Run).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Blackout\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Blackout-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Brushfire\"-(Revised-Base-Set-Reprint-Run).jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Brushfire-(Revised-Base-Set-Reprint-Run).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Brushfire\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Brushfire-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Overgrowth\"-(Revised-Base-Set-Reprint-Run).jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Overgrowth-(Revised-Base-Set-Reprint-Run).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Overgrowth\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Overgrowth-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Zap!\"-(Revised-Base-Set-Reprint-Run).jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Zap!-(Revised-Base-Set-Reprint-Run).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Base-Set-Theme-Deck---\"Zap!\".jpg",
+    "dst": "./images/sealed_prods/Base-Set-Theme-Deck-Zap!-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Deck:-Rayquaza-GX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Deck-Rayquaza-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Deck:-Ultra-Necrozma-GX-&-Rayquaza-GX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Deck-Ultra-Necrozma-GX-&-Rayquaza-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Deck:-Ultra-Necrozma-GX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Deck-Ultra-Necrozma-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Decks:-Black-Kyurem-EX-vs-White-Kyurem-EX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Decks-Black-Kyurem-EX-vs-White-Kyurem-EX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Decks:-Keldeo-EX-vs-Rayquaza-EX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Decks-Keldeo-EX-vs-Rayquaza-EX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Decks:-Landorus-vs.-Genesect.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Decks-Landorus-vs.-Genesect.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Decks:-Mewtwo-EX-vs-Darkrai-EX.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Decks-Mewtwo-EX-vs-Darkrai-EX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Battle-Arena-Decks:-Xerneas-vs-Yveltal.jpg",
+    "dst": "./images/sealed_prods/Battle-Arena-Decks-Xerneas-vs-Yveltal.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Black-&-White-Theme-Deck---\"Blue-Assault\"-Samurott.jpg",
+    "dst": "./images/sealed_prods/Black-&-White-Theme-Deck-Blue-Assault-Samurott.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Black-&-White-Theme-Deck---\"Green-Tornado\"-Serperior.jpg",
+    "dst": "./images/sealed_prods/Black-&-White-Theme-Deck-Green-Tornado-Serperior.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Black-&-White-Theme-Deck---\"Red-Frenzy\"-Emboar.jpg",
+    "dst": "./images/sealed_prods/Black-&-White-Theme-Deck-Red-Frenzy-Emboar.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Boundaries-Crossed-Theme-Deck---\"Cold-Fire\"-White-Kyurem.jpg",
+    "dst": "./images/sealed_prods/Boundaries-Crossed-Theme-Deck-Cold-Fire-White-Kyurem.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Boundaries-Crossed-Theme-Deck---\"Ice-Shock\"-Black-Kyurem.jpg",
+    "dst": "./images/sealed_prods/Boundaries-Crossed-Theme-Deck-Ice-Shock-Black-Kyurem.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Burning-Shadows-Theme-Deck---\"Luminous-Frost\"-Alolan-Ninetales.jpg",
+    "dst": "./images/sealed_prods/Burning-Shadows-Theme-Deck-Luminous-Frost-Alolan-Ninetales.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Burning-Shadows-Theme-Deck---\"Rock-Steady\"-Lycanroc.jpg",
+    "dst": "./images/sealed_prods/Burning-Shadows-Theme-Deck-Rock-Steady-Lycanroc.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Celestial-Storm-Theme-Deck---\"Hydro-Fury\"-Swampert.jpg",
+    "dst": "./images/sealed_prods/Celestial-Storm-Theme-Deck-Hydro-Fury-Swampert.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Celestial-Storm-Theme-Deck---\"Leaf-Charge\"-Sceptile.jpg",
+    "dst": "./images/sealed_prods/Celestial-Storm-Theme-Deck-Leaf-Charge-Sceptile.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Champion's-Path-Pin-Collection-Display:-Ballonlea,-Spikemuth,-&-Hammerlocke-Gyms.jpg",
+    "dst": "./images/sealed_prods/Champion's-Path-Pin-Collection-Display-Ballonlea,-Spikemuth,-&-Hammerlocke-Gyms.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Champion's-Path-Pin-Collection-Display:-Turffield,-Hulbury,-&-Motostoke-Gyms.jpg",
+    "dst": "./images/sealed_prods/Champion's-Path-Pin-Collection-Display-Turffield,-Hulbury,-&-Motostoke-Gyms.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Costco-Pokemon-Collector-3-Pack:-Eevee-Treasure-Chest-+-2-Poke-Ball-Tins.jpg",
+    "dst": "./images/sealed_prods/Costco-Pokemon-Collector-3-Pack-Eevee-Treasure-Chest-+-2-Poke-Ball-Tins.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Crimson-Invasion-Theme-Deck---\"Clanging-Thunder\"-Kommo-o.jpg",
+    "dst": "./images/sealed_prods/Crimson-Invasion-Theme-Deck-Clanging-Thunder-Kommo-o.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Crimson-Invasion-Theme-Deck---\"Destruction-Fang\"-Hydreigon.jpg",
+    "dst": "./images/sealed_prods/Crimson-Invasion-Theme-Deck-Destruction-Fang-Hydreigon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Delta-Species-Theme-Deck---\"Breakthrough\".jpg",
+    "dst": "./images/sealed_prods/Delta-Species-Theme-Deck-Breakthrough-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Delta-Species-Theme-Deck---\"Steeplechase\".jpg",
+    "dst": "./images/sealed_prods/Delta-Species-Theme-Deck-Steeplechase-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Deluxe-Battle-Deck:-Quaquavel-exMeowscarada-ex-Set-of-2.jpg",
+    "dst": "./images/sealed_prods/Deluxe-Battle-Deck-Quaquavel-exMeowscarada-ex-Set-of-2.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Deoxys-Theme-Deck---\"Jetstream\".jpg",
+    "dst": "./images/sealed_prods/Deoxys-Theme-Deck-Jetstream-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Deoxys-Theme-Deck---\"Starcharge\".jpg",
+    "dst": "./images/sealed_prods/Deoxys-Theme-Deck-Starcharge-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Detective-Pikachu:-Charizard-GX-Case-File.jpg",
+    "dst": "./images/sealed_prods/Detective-Pikachu-Charizard-GX-Case-File.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Detective-Pikachu:-Charizard-GX-Special-Case-File.jpg",
+    "dst": "./images/sealed_prods/Detective-Pikachu-Charizard-GX-Special-Case-File.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Detective-Pikachu:-Collector-Chest.jpg",
+    "dst": "./images/sealed_prods/Detective-Pikachu-Collector-Chest.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Detective-Pikachu:-Greninja-GX-Case-File.jpg",
+    "dst": "./images/sealed_prods/Detective-Pikachu-Greninja-GX-Case-File.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Detective-Pikachu:-Mewtwo-GX-Case-File.jpg",
+    "dst": "./images/sealed_prods/Detective-Pikachu-Mewtwo-GX-Case-File.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck---\"Inferno-Zone\".jpg",
+    "dst": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck-Inferno-Zone-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck---\"Royal-Frost\".jpg",
+    "dst": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck-Royal-Frost-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck---\"Terra-Firma\".jpg",
+    "dst": "./images/sealed_prods/Diamond-&-Pearl-Theme-Deck-Terra-Firma-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Double-Crisis:-Team-Aqua-Blister.jpg",
+    "dst": "./images/sealed_prods/Double-Crisis-Team-Aqua-Blister.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Double-Crisis:-Team-Magma-Blister.jpg",
+    "dst": "./images/sealed_prods/Double-Crisis-Team-Magma-Blister.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Dragon-Majesty-Special-Collection:-Salamence-GX.jpg",
+    "dst": "./images/sealed_prods/Dragon-Majesty-Special-Collection-Salamence-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Dragon-Majesty-Special-Collection:-White-Kyurem-GX.jpg",
+    "dst": "./images/sealed_prods/Dragon-Majesty-Special-Collection-White-Kyurem-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Dragon-Theme-Deck---\"FireFang\"-Salamence.jpg",
+    "dst": "./images/sealed_prods/Dragon-Theme-Deck-FireFang-Salamence.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/EX-Battle-Stadium:-Blaziken-vs.-Gardevoir.jpg",
+    "dst": "./images/sealed_prods/EX-Battle-Stadium-Blaziken-vs.-Gardevoir.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/EX-Ruby-&-Sapphire-Theme-Deck---\"Ruby\"-Blaziken.jpg",
+    "dst": "./images/sealed_prods/EX-Ruby-&-Sapphire-Theme-Deck-Ruby-Blaziken.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/EX-Ruby-&-Sapphire-Theme-Deck---\"Sapphire\"-Swampert.jpg",
+    "dst": "./images/sealed_prods/EX-Ruby-&-Sapphire-Theme-Deck-Sapphire-Swampert.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Emerald-Theme-Deck---\"Hydrobloom\"-Milotic.jpg",
+    "dst": "./images/sealed_prods/Emerald-Theme-Deck-Hydrobloom-Milotic.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Emerald-Theme-Deck---\"Wildfire\"-Manectric.jpg",
+    "dst": "./images/sealed_prods/Emerald-Theme-Deck-Wildfire-Manectric.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Emerging-Powers-Theme-Deck---\"Power-Play\"-Krookodile.jpg",
+    "dst": "./images/sealed_prods/Emerging-Powers-Theme-Deck-Power-Play-Krookodile.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Emerging-Powers-Theme-Deck---\"Toxic-Tricks\"-Scolipede.jpg",
+    "dst": "./images/sealed_prods/Emerging-Powers-Theme-Deck-Toxic-Tricks-Scolipede.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Evolutions-Theme-Deck---\"Mewtwo-Mayhem\"-Mewtwo.jpg",
+    "dst": "./images/sealed_prods/Evolutions-Theme-Deck-Mewtwo-Mayhem-Mewtwo.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Evolutions-Theme-Deck---\"Pikachu-Power\"-Pikachu.jpg",
+    "dst": "./images/sealed_prods/Evolutions-Theme-Deck-Pikachu-Power-Pikachu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Expedition-Theme-Deck---\"Echo\".jpg",
+    "dst": "./images/sealed_prods/Expedition-Theme-Deck-Echo-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Expedition-Theme-Deck---\"Electric-Garden\".jpg",
+    "dst": "./images/sealed_prods/Expedition-Theme-Deck-Electric-Garden-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Fates-Collide-Theme-Deck---\"Battle-Ruler\"-Zygarde.jpg",
+    "dst": "./images/sealed_prods/Fates-Collide-Theme-Deck-Battle-Ruler-Zygarde.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Fates-Collide-Theme-Deck---\"Sky-Guardian\"-Lugia.jpg",
+    "dst": "./images/sealed_prods/Fates-Collide-Theme-Deck-Sky-Guardian-Lugia.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/FireRed-&-LeafGreen-Theme-Deck---\"LeafGreen\"-Ivysaur.jpg",
+    "dst": "./images/sealed_prods/FireRed-&-LeafGreen-Theme-Deck-LeafGreen-Ivysaur.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Flashfire-Theme-Deck---\"Brilliant-Thunder\"-Heliolisk.jpg",
+    "dst": "./images/sealed_prods/Flashfire-Theme-Deck-Brilliant-Thunder-Heliolisk.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Flashfire-Theme-Deck---\"Mystic-Typhoon\"-Meowstic.jpg",
+    "dst": "./images/sealed_prods/Flashfire-Theme-Deck-Mystic-Typhoon-Meowstic.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Forbidden-Light-Theme-Deck---\"Tropical-Takedown\"-Alolan-Exeggutor.jpg",
+    "dst": "./images/sealed_prods/Forbidden-Light-Theme-Deck-Tropical-Takedown-Alolan-Exeggutor.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Forbidden-Light-Theme-Deck---\"Twilight-Rogue\"-Lycanroc.jpg",
+    "dst": "./images/sealed_prods/Forbidden-Light-Theme-Deck-Twilight-Rogue-Lycanroc.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Fossil-Theme-Deck---\"BodyGuard\".jpg",
+    "dst": "./images/sealed_prods/Fossil-Theme-Deck-BodyGuard-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Fossil-Theme-Deck---\"LockDown\".jpg",
+    "dst": "./images/sealed_prods/Fossil-Theme-Deck-LockDown-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Furious-Fists-Theme-Deck---\"Dark-Hammer\"-Pangoro.jpg",
+    "dst": "./images/sealed_prods/Furious-Fists-Theme-Deck-Dark-Hammer-Pangoro.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Furious-Fists-Theme-Deck---\"Enchanted-Echo\"-Sylveon.jpg",
+    "dst": "./images/sealed_prods/Furious-Fists-Theme-Deck-Enchanted-Echo-Sylveon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Guardians-Rising-Theme-Deck---\"Hidden-Moon\"-Lunala.jpg",
+    "dst": "./images/sealed_prods/Guardians-Rising-Theme-Deck-Hidden-Moon-Lunala.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Guardians-Rising-Theme-Deck---\"Steel-Sun\"-Solgaleo.jpg",
+    "dst": "./images/sealed_prods/Guardians-Rising-Theme-Deck-Steel-Sun-Solgaleo.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Challenge-Theme-Deck---\"Blaine\".jpg",
+    "dst": "./images/sealed_prods/Gym-Challenge-Theme-Deck-Blaine-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Challenge-Theme-Deck---\"Giovanni\".jpg",
+    "dst": "./images/sealed_prods/Gym-Challenge-Theme-Deck-Giovanni-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Challenge-Theme-Deck---\"Koga\".jpg",
+    "dst": "./images/sealed_prods/Gym-Challenge-Theme-Deck-Koga-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Challenge-Theme-Deck---\"Sabrina\".jpg",
+    "dst": "./images/sealed_prods/Gym-Challenge-Theme-Deck-Sabrina-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Heroes-Theme-Deck---\"Brock\".jpg",
+    "dst": "./images/sealed_prods/Gym-Heroes-Theme-Deck-Brock-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Heroes-Theme-Deck---\"Erika\".jpg",
+    "dst": "./images/sealed_prods/Gym-Heroes-Theme-Deck-Erika-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Heroes-Theme-Deck---\"Lt.-Surge\".jpg",
+    "dst": "./images/sealed_prods/Gym-Heroes-Theme-Deck-Lt.-Surge-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Gym-Heroes-Theme-Deck---\"Misty\".jpg",
+    "dst": "./images/sealed_prods/Gym-Heroes-Theme-Deck-Misty-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Hidden-Legends-Theme-Deck---\"Forest-Guardian\"-Dark-Celebi.jpg",
+    "dst": "./images/sealed_prods/Hidden-Legends-Theme-Deck-Forest-Guardian-Dark-Celebi.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Hidden-Legends-Theme-Deck---\"Wish-Maker\"-Jirachi.jpg",
+    "dst": "./images/sealed_prods/Hidden-Legends-Theme-Deck-Wish-Maker-Jirachi.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Holon-Phantoms-Theme-Deck---\"FireMist\".jpg",
+    "dst": "./images/sealed_prods/Holon-Phantoms-Theme-Deck-FireMist-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Holon-Phantoms-Theme-Deck---\"FloodRush\".jpg",
+    "dst": "./images/sealed_prods/Holon-Phantoms-Theme-Deck-FloodRush-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Jungle-Theme-Deck---\"Power-Reserve\".jpg",
+    "dst": "./images/sealed_prods/Jungle-Theme-Deck-Power-Reserve-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Jungle-Theme-Deck---\"Water-Blast\".jpg",
+    "dst": "./images/sealed_prods/Jungle-Theme-Deck-Water-Blast-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Legendary-Collection-Theme-Deck---\"Lava\".jpg",
+    "dst": "./images/sealed_prods/Legendary-Collection-Theme-Deck-Lava-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Legendary-Collection-Theme-Deck---\"Turmoil\".jpg",
+    "dst": "./images/sealed_prods/Legendary-Collection-Theme-Deck-Turmoil-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Lost-Thunder-Theme-Deck---\"Blazing-Volcano\"-Entei.jpg",
+    "dst": "./images/sealed_prods/Lost-Thunder-Theme-Deck-Blazing-Volcano-Entei.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Lost-Thunder-Theme-Deck---\"Storm-Caller\"-Raikou.jpg",
+    "dst": "./images/sealed_prods/Lost-Thunder-Theme-Deck-Storm-Caller-Raikou.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Majestic-Dawn-Theme-Deck---\"Forest-Force\".jpg",
+    "dst": "./images/sealed_prods/Majestic-Dawn-Theme-Deck-Forest-Force-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Majestic-Dawn-Theme-Deck---\"Polar-Frost\".jpg",
+    "dst": "./images/sealed_prods/Majestic-Dawn-Theme-Deck-Polar-Frost-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Mysterious-Treasures-Theme-Deck---\"Armor-Fortress\".jpg",
+    "dst": "./images/sealed_prods/Mysterious-Treasures-Theme-Deck-Armor-Fortress-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Mysterious-Treasures-Theme-Deck---\"Skull-Charge\".jpg",
+    "dst": "./images/sealed_prods/Mysterious-Treasures-Theme-Deck-Skull-Charge-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Destiny-Theme-Deck---\"Dark\".jpg",
+    "dst": "./images/sealed_prods/Neo-Destiny-Theme-Deck-Dark-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Destiny-Theme-Deck---\"Light\".jpg",
+    "dst": "./images/sealed_prods/Neo-Destiny-Theme-Deck-Light-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Discovery-Theme-Deck---\"Brain-Wave\".jpg",
+    "dst": "./images/sealed_prods/Neo-Discovery-Theme-Deck-Brain-Wave-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Discovery-Theme-Deck---\"Wallop\".jpg",
+    "dst": "./images/sealed_prods/Neo-Discovery-Theme-Deck-Wallop-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Genesis-Theme-Deck---\"Cold-Fusion\".jpg",
+    "dst": "./images/sealed_prods/Neo-Genesis-Theme-Deck-Cold-Fusion-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Neo-Genesis-Theme-Deck---\"Hotfoot\".jpg",
+    "dst": "./images/sealed_prods/Neo-Genesis-Theme-Deck-Hotfoot-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Next-Destinies-Theme-Deck---\"Explosive-Edge\"-Reshiram.jpg",
+    "dst": "./images/sealed_prods/Next-Destinies-Theme-Deck-Explosive-Edge-Reshiram.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Next-Destinies-Theme-Deck---\"Voltage-Vortex\"-Zekrom.jpg",
+    "dst": "./images/sealed_prods/Next-Destinies-Theme-Deck-Voltage-Vortex-Zekrom.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Noble-Victories-Theme-Deck---\"Fast-Daze\"-Accelgor.jpg",
+    "dst": "./images/sealed_prods/Noble-Victories-Theme-Deck-Fast-Daze-Accelgor.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Noble-Victories-Theme-Deck---\"Furious-Knights\"-Escavalier.jpg",
+    "dst": "./images/sealed_prods/Noble-Victories-Theme-Deck-Furious-Knights-Escavalier.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Phantom-Forces-Theme-Deck---\"Bolt-Twister\"-Galvantula.jpg",
+    "dst": "./images/sealed_prods/Phantom-Forces-Theme-Deck-Bolt-Twister-Galvantula.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Phantom-Forces-Theme-Deck---\"Burning-Winds\"-Talonflame.jpg",
+    "dst": "./images/sealed_prods/Phantom-Forces-Theme-Deck-Burning-Winds-Talonflame.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Plasma-Freeze-Theme-Deck---\"Frost-Ray\"-Glaceon.jpg",
+    "dst": "./images/sealed_prods/Plasma-Freeze-Theme-Deck-Frost-Ray-Glaceon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Plasma-Freeze-Theme-Deck---\"Psy-Crusher\"-Leafeon.jpg",
+    "dst": "./images/sealed_prods/Plasma-Freeze-Theme-Deck-Psy-Crusher-Leafeon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Platinum-Theme-Deck---\"Flourish\".jpg",
+    "dst": "./images/sealed_prods/Platinum-Theme-Deck-Flourish-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Platinum-Theme-Deck---\"Rebellion\".jpg",
+    "dst": "./images/sealed_prods/Platinum-Theme-Deck-Rebellion-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Darkness.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Darkness.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Electric.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Electric.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Fighting.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Fighting.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Fire.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Fire.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Grass.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Grass.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tin:-Water.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tin-Water.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tins:-Fighting-Fire-Darkness-Display.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tins-Fighting-Fire-Darkness-Display.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-Stacking-Tins:-Fighting-Fire-Darkness-Set-of-3.jpg",
+    "dst": "./images/sealed_prods/Pokemon-Stacking-Tins-Fighting-Fire-Darkness-Set-of-3.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Bundle.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Bundle.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-2023-Set-of-2.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-2023-Set-of-2.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-Eevee.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-Eevee.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-Lechonk.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-Lechonk.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-Pikachu.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-Pikachu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-Set-of-2.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-Set-of-2.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Eraser-Blister-Smoliv.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Eraser-Blister-Smoliv.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Pencil-Case-2023.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Pencil-Case-2023.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Back-to-School-Pencil-Case.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Back-to-School-Pencil-Case.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Basic-Energy-Box.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Basic-Energy-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Battle-Academy-2022.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Battle-Academy-2022.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Battle-Academy.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Battle-Academy.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-EX-Collector's-Box-Deoxys.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-EX-Collector's-Box-Deoxys.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-EX-Collector's-Box-Rayquaza.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-EX-Collector's-Box-Rayquaza.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-SWSH-Basic-Energy-Box.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-SWSH-Basic-Energy-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Starter-Gift-Set.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Starter-Gift-Set.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Tempest-Gift-Box.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Tempest-Gift-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Tempest-Theme-Deck.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Tempest-Theme-Deck.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Thunderstorm-Gift-Box.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Thunderstorm-Gift-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Trainer's-Toolkit-(2020).jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Trainer's-Toolkit-(2020).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Trainer's-Toolkit-(2021)-Case.jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Trainer's-Toolkit-(2021)-Case.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Trainer's-Toolkit-(2021).jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Trainer's-Toolkit-(2021).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Trainer's-Toolkit-(2022).jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Trainer's-Toolkit-(2022).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Pokemon-TCG:-Trainer's-Toolkit-(2023).jpg",
+    "dst": "./images/sealed_prods/Pokemon-TCG-Trainer's-Toolkit-(2023).jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Primal-Clash-Theme-Deck---\"Earth's-Pulse\"-Groudon.jpg",
+    "dst": "./images/sealed_prods/Primal-Clash-Theme-Deck-Earth's-Pulse-Groudon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Primal-Clash-Theme-Deck---\"Ocean's-Core\"-Kyogre.jpg",
+    "dst": "./images/sealed_prods/Primal-Clash-Theme-Deck-Ocean's-Core-Kyogre.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Roaring-Skies-Theme-Deck---\"Aurora-Blast\"-Articuno.jpg",
+    "dst": "./images/sealed_prods/Roaring-Skies-Theme-Deck-Aurora-Blast-Articuno.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Roaring-Skies-Theme-Deck---\"Storm-Rider\"-Zapdos.jpg",
+    "dst": "./images/sealed_prods/Roaring-Skies-Theme-Deck-Storm-Rider-Zapdos.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sandstorm-Theme-Deck---\"Caravan\".jpg",
+    "dst": "./images/sealed_prods/Sandstorm-Theme-Deck-Caravan-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Figure-Collection:-Shiny-Darkrai-GX.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Figure-Collection-Shiny-Darkrai-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Pin-Collection:-Marshadow.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Pin-Collection-Marshadow.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Pin-Collection:-Mewtwo.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Pin-Collection-Mewtwo.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Pin-Collection:-Pikachu.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Pin-Collection-Pikachu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Pin-Collection:-Zoroark.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Pin-Collection-Zoroark.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Special-Collection:-Raichu-GX.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Special-Collection-Raichu-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends-Special-Collection:-Zoroark-GX.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Special-Collection-Zoroark-GX.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Shining-Legends:-Shiny-Zygarde-GX-Box.jpg",
+    "dst": "./images/sealed_prods/Shining-Legends-Shiny-Zygarde-GX-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Skyridge-Theme-Deck---\"Eeveelution\"-Eevee.jpg",
+    "dst": "./images/sealed_prods/Skyridge-Theme-Deck-Eeveelution-Eevee.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Skyridge-Theme-Deck---\"Mind-Machine\"-Xatu.jpg",
+    "dst": "./images/sealed_prods/Skyridge-Theme-Deck-Mind-Machine-Xatu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Starter-Figure-Boxes:-Outstanding-Oshawott-Box.jpg",
+    "dst": "./images/sealed_prods/Starter-Figure-Boxes-Outstanding-Oshawott-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Starter-Figure-Boxes:-Super-Snivy-Box.jpg",
+    "dst": "./images/sealed_prods/Starter-Figure-Boxes-Super-Snivy-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Starter-Figure-Boxes:-Terrific-Tepig-Box.jpg",
+    "dst": "./images/sealed_prods/Starter-Figure-Boxes-Terrific-Tepig-Box.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Steam-Siege-Theme-Deck---\"Gears-of-Fire\"-Volcanion.jpg",
+    "dst": "./images/sealed_prods/Steam-Siege-Theme-Deck-Gears-of-Fire-Volcanion.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Steam-Siege-Theme-Deck---\"Ring-of-Lightning\"-Hoopa.jpg",
+    "dst": "./images/sealed_prods/Steam-Siege-Theme-Deck-Ring-of-Lightning-Hoopa.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck---\"Bright-Tide\"-Primarina.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck-Bright-Tide-Primarina.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck---\"Forest-Shadow\"-Decidueye.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck-Forest-Shadow-Decidueye.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck---\"Roaring-Heat\"-Incineroar.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Base-Set-Theme-Deck-Roaring-Heat-Incineroar.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit:-Alolan-Sandslash-&-Alolan-Ninetales-Display.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit-Alolan-Sandslash-&-Alolan-Ninetales-Display.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit:-Alolan-Sandslash-&-Alolan-Ninetales.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit-Alolan-Sandslash-&-Alolan-Ninetales.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit:-Lycanroc-&-Alolan-Raichu.jpg",
+    "dst": "./images/sealed_prods/Sun-&-Moon-Trainer-Kit-Lycanroc-&-Alolan-Raichu.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sword-&-Shield-Ultra-Premium-Collection:-Charizard-Case.jpg",
+    "dst": "./images/sealed_prods/Sword-&-Shield-Ultra-Premium-Collection-Charizard-Case.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Sword-&-Shield-Ultra-Premium-Collection:-Charizard.jpg",
+    "dst": "./images/sealed_prods/Sword-&-Shield-Ultra-Premium-Collection-Charizard.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Team-Magma-Theme-Deck---\"EX-Team-Magma\"-Groudon.jpg",
+    "dst": "./images/sealed_prods/Team-Magma-Theme-Deck-EX-Team-Magma-Groudon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Team-Rocket-Theme-Deck---\"Devastation\".jpg",
+    "dst": "./images/sealed_prods/Team-Rocket-Theme-Deck-Devastation-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Team-Rocket-Theme-Deck---\"Trouble\".jpg",
+    "dst": "./images/sealed_prods/Team-Rocket-Theme-Deck-Trouble-.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Team-Up-Theme-Deck---\"Relentless-Flame\"-Charizard.jpg",
+    "dst": "./images/sealed_prods/Team-Up-Theme-Deck-Relentless-Flame-Charizard.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Team-Up-Theme-Deck---\"Torrential-Cannon\"-Blastoise.jpg",
+    "dst": "./images/sealed_prods/Team-Up-Theme-Deck-Torrential-Cannon-Blastoise.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Ultra-Prism-Theme-Deck---\"Imperial-Command\"-Empoleon.jpg",
+    "dst": "./images/sealed_prods/Ultra-Prism-Theme-Deck-Imperial-Command-Empoleon.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Ultra-Prism-Theme-Deck---\"Mach-Strike\"-Garchomp.jpg",
+    "dst": "./images/sealed_prods/Ultra-Prism-Theme-Deck-Mach-Strike-Garchomp.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Unified-Minds-Theme-Deck---\"Laser-Focus\"-Necrozma.jpg",
+    "dst": "./images/sealed_prods/Unified-Minds-Theme-Deck-Laser-Focus-Necrozma.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Unified-Minds-Theme-Deck---\"Soaring-Storm\"-Dragonite.jpg",
+    "dst": "./images/sealed_prods/Unified-Minds-Theme-Deck-Soaring-Storm-Dragonite.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Unseen-Forces-Theme-Deck---\"Golden-Sky\"-Ho-Oh.jpg",
+    "dst": "./images/sealed_prods/Unseen-Forces-Theme-Deck-Golden-Sky-Ho-Oh.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/Unseen-Forces-Theme-Deck---\"Silvery-Ocean\"-Lugia.jpg",
+    "dst": "./images/sealed_prods/Unseen-Forces-Theme-Deck-Silvery-Ocean-Lugia.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Base-Set-Theme-Deck---\"Destruction-Rush\"-Yveltal.jpg",
+    "dst": "./images/sealed_prods/XY-Base-Set-Theme-Deck-Destruction-Rush-Yveltal.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Base-Set-Theme-Deck---\"Resilient-Life\"-Xerneas.jpg",
+    "dst": "./images/sealed_prods/XY-Base-Set-Theme-Deck-Resilient-Life-Xerneas.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Trainer-Kit:-Bisharp-&-Wigglytuff.jpg",
+    "dst": "./images/sealed_prods/XY-Trainer-Kit-Bisharp-&-Wigglytuff.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Trainer-Kit:-Latias-&-Latios.jpg",
+    "dst": "./images/sealed_prods/XY-Trainer-Kit-Latias-&-Latios.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Trainer-Kit:-Pikachu-Libre-&-Suicune.jpg",
+    "dst": "./images/sealed_prods/XY-Trainer-Kit-Pikachu-Libre-&-Suicune.jpg",
+    "is_file": true
+  },
+  {
+    "src": "./images/sealed_prods/XY-Trainer-Kit:-Sylveon-&-Noivern.jpg",
+    "dst": "./images/sealed_prods/XY-Trainer-Kit-Sylveon-&-Noivern.jpg",
+    "is_file": true
+  }
+]
