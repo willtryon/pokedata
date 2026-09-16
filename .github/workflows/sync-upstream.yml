@@ -1,0 +1,133 @@
+# Pulls new commits from the repo this is forked from (poketrax/pokedata), then
+# re-runs fix_windows_image_paths.py so any image upstream just added gets a
+# Windows-safe name before it lands on main.
+#
+# Must run on Linux. A Windows runner cannot even check this repo out, since the
+# upstream image names contain : ? * " and friends -- which is the entire reason
+# fix_windows_image_paths.py exists.
+
+name: Sync Upstream (Windows-safe images)
+
+on:
+  schedule:
+    # Upstream scrapes Tue/Fri 00:00 UTC (meta-data.yml), so check daily at 04:30.
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Merge and scan only -- do not rename, commit, or push"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: false
+
+env:
+  UPSTREAM_URL: https://github.com/poketrax/pokedata.git
+  UPSTREAM_BRANCH: main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0 # full history required to merge upstream
+          # Falls back to GITHUB_TOKEN if the PAT isn't set. With GITHUB_TOKEN,
+          # the resulting push will NOT trigger auto-tag.yml / release.yaml.
+          token: ${{ secrets.JPG_ACTION_TOKEN || github.token }}
+
+      - name: Configure git
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # This repo renames thousands of image files; default rename limits are too low.
+          git config merge.renameLimit 100000
+          git config diff.renameLimit 100000
+
+      - name: Fetch upstream
+        run: |
+          git remote add upstream "$UPSTREAM_URL" 2>/dev/null \
+            || git remote set-url upstream "$UPSTREAM_URL"
+          git fetch --no-tags upstream "$UPSTREAM_BRANCH"
+
+      - name: Check for new upstream commits
+        id: check
+        run: |
+          behind=$(git rev-list --count "HEAD..upstream/$UPSTREAM_BRANCH")
+          echo "behind=$behind" >> "$GITHUB_OUTPUT"
+          echo "### $behind new upstream commit(s)" >> "$GITHUB_STEP_SUMMARY"
+          if [ "$behind" -gt 0 ]; then
+            git log --oneline --no-decorate "HEAD..upstream/$UPSTREAM_BRANCH" \
+              >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Merge upstream
+        if: steps.check.outputs.behind != '0'
+        run: |
+          if git merge --no-edit "upstream/$UPSTREAM_BRANCH"; then
+            echo "Clean merge."
+          else
+            echo "::warning::Conflicts on clean merge; retrying with -X theirs"
+            git merge --abort
+            if ! git merge --no-edit -X theirs "upstream/$UPSTREAM_BRANCH"; then
+              echo "::error::Merge needs manual resolution. Conflicted paths:"
+              git diff --name-only --diff-filter=U || true
+              git merge --abort || true
+              exit 1
+            fi
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.behind != '0'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Scan for Windows-invalid names
+        if: steps.check.outputs.behind != '0'
+        run: python3 fix_windows_image_paths.py --root ./images
+
+      - name: Rename to Windows-safe names
+        if: steps.check.outputs.behind != '0' && !inputs.dry_run
+        run: |
+          mkdir -p .winfix
+          python3 fix_windows_image_paths.py \
+            --root ./images \
+            --apply \
+            --use-git \
+            --map-out ".winfix/rename-map-${{ github.run_number }}.json"
+
+      - name: Verify
+        if: steps.check.outputs.behind != '0' && !inputs.dry_run
+        run: |
+          # An interrupted rename leaves *.winfix.tmp behind -- never commit those.
+          if git ls-files -oc | grep -q '\.winfix\.tmp$'; then
+            echo "::error::Leftover .winfix.tmp entries; a rename was interrupted."
+            git ls-files -oc | grep '\.winfix\.tmp$'
+            exit 1
+          fi
+          # A second pass must find nothing left to fix.
+          out=$(python3 fix_windows_image_paths.py --root ./images)
+          echo "$out"
+          if ! echo "$out" | grep -q "already Windows-safe"; then
+            echo "::error::Invalid names still present after --apply."
+            exit 1
+          fi
+
+      - name: Commit and push
+        if: steps.check.outputs.behind != '0' && !inputs.dry_run
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No renames needed; pushing merge commit only."
+          else
+            git commit -m "🤖 Windows-safe image names after upstream sync"
+          fi
+          git push origin HEAD:main
