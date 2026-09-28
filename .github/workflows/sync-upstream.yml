@@ -6,7 +6,7 @@
 # upstream image names contain : ? * " and friends -- which is the entire reason
 # fix_windows_image_paths.py exists.
 
-name: Sync Upstream (Windows-safe images)
+name: Sync Upstream
 
 on:
   schedule:
@@ -35,12 +35,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout fork
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0 # full history required to merge upstream
-          # Falls back to GITHUB_TOKEN if the PAT isn't set. With GITHUB_TOKEN,
-          # the resulting push will NOT trigger auto-tag.yml / release.yaml.
+      - uses: actions/checkout@v5
+        with: { ref: main, fetch-depth: 1, filter: 'blob:none', token: ... }
+      - run: |
+          git fetch --unshallow --no-tags --filter=blob:none origin main
+          git remote add upstream "$UPSTREAM_URL"
+          git fetch --no-tags --filter=blob:none upstream main
           token: ${{ secrets.JPG_ACTION_TOKEN || github.token }}
 
       - name: Configure git
