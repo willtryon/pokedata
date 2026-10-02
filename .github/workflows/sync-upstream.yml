@@ -35,13 +35,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout fork
-      - uses: actions/checkout@v5
-        with: { ref: main, fetch-depth: 1, filter: 'blob:none', token: ... }
-      - run: |
-          git fetch --unshallow --no-tags --filter=blob:none origin main
-          git remote add upstream "$UPSTREAM_URL"
-          git fetch --no-tags --filter=blob:none upstream main
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 1
+          filter: 'blob:none'
           token: ${{ secrets.JPG_ACTION_TOKEN || github.token }}
+
+      - name: Un-shallow fork history
+        run: git fetch --unshallow --no-tags --filter=blob:none origin main
 
       - name: Configure git
         run: |
@@ -55,7 +57,7 @@ jobs:
         run: |
           git remote add upstream "$UPSTREAM_URL" 2>/dev/null \
             || git remote set-url upstream "$UPSTREAM_URL"
-          git fetch --no-tags upstream "$UPSTREAM_BRANCH"
+          git fetch --no-tags --filter=blob:none upstream "$UPSTREAM_BRANCH"
 
       - name: Check for new upstream commits
         id: check
@@ -75,7 +77,7 @@ jobs:
             echo "Clean merge."
           else
             echo "::warning::Conflicts on clean merge; retrying with -X theirs"
-            git merge --abort
+            git merge --abort || true
             if ! git merge --no-edit -X theirs "upstream/$UPSTREAM_BRANCH"; then
               echo "::error::Merge needs manual resolution. Conflicted paths:"
               git diff --name-only --diff-filter=U || true
